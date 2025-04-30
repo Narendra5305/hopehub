@@ -1,5 +1,4 @@
-import { useContext } from 'react';
-import { AuthContext } from '../context/authContext';
+
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 
